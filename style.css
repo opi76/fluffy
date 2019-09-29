@@ -1,0 +1,118 @@
+#center
+{
+ align-self: auto;
+}
+
+#titre
+{
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+body
+{
+   background-color: rgb(210, 247, 221);
+
+ 
+}
+#wrapper 
+{
+ 
+    height:100%;
+    width: 50%;
+    margin-left:20%;
+    padding: 0;
+    }
+#wrapper
+{
+    vertical-align: middle;
+   text-align: center;
+}
+ 
+aside {
+  background-image: url(images/coktail.png) ;
+    width: 230px;
+    border: 5px double rgb(58, 155, 155);
+    padding: 20px;
+    margin: 20px;
+    float: right;
+    text-align: center;
+    background-repeat:repeat-x;
+    
+
+
+   
+  }
+  p 
+  {
+   font-family: sans-serif;
+   font-size: 20px;
+  }
+ h1
+{
+  color: rgb(58, 155, 155);
+}
+  h3
+{
+   color: rgb(202, 10, 10);
+}
+
+
+#guarantee
+{
+
+font-family: serif;
+font-style:italic;
+line-height: 150%;
+color: rgb(51,51,51);
+border: 1px dashed rgb(209,248,248);
+background-color: rgb(159,199,226);
+display: block;
+padding-top:auto;
+margin-left: 50px;
+margin-right: 50px;
+padding-bottom:50px;
+display:inline-block;
+text-align: center;
+width: 500px; 
+}
+main ul
+{
+  list-style-type: circle
+}
+.cd
+{
+  font-style: italic
+}
+.cd::after 
+{
+  content:"-";
+}
+
+.artist
+{
+  font-weight: bold ;
+}
+footer
+{
+text-align: center;
+font-size: 10px;
+line-height: normal;
+padding-top:10px;
+}
+#ajustement1
+{
+    text-align: left;
+    padding: 20px;
+}
+#ajustement2
+{
+    text-align: left;
+    padding: 20px;
+}
+#ajustement3
+{
+    text-align: left;
+    padding: 30px;
+}
